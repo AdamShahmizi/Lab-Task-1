@@ -1,0 +1,13 @@
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\bin\Debug\Exercise(Adam).exe.config
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\bin\Debug\Exercise(Adam).exe
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\bin\Debug\Exercise(Adam).pdb
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\bin\Debug\Exercise(Adam).xml
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise(Adam).vbprojResolveAssemblyReference.cache
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise_Adam_.About.resources
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise_Adam_.Form1.resources
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise_Adam_.Resources.resources
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise_Adam_.SplashScreen1.resources
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise(Adam).vbproj.GenerateResource.Cache
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise(Adam).exe
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise(Adam).xml
+c:\users\adams\documents\visual studio 2015\Projects\Exercise(Adam)\Exercise(Adam)\obj\Debug\Exercise(Adam).pdb
